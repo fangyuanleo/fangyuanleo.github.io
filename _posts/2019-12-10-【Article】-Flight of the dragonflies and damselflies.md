@@ -7,8 +7,9 @@ author:     Squcle_L
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - 论文总结
+    - Article's Summary 
 ---
-
+##Disclaimer 
+This blog, which is only for communication and learning, is the summary and records of the papers that I have read. The pictures and opinions not identified in the blog are from the article cited in the subtitle.
 
 —— Squcle_L
