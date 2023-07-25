@@ -11,7 +11,7 @@ github_repo: "https://github.com/fangyuanleo/fangyuanleo.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Bio-inspired robots, Flapping wing aerial robots, Micro aerial vehicles."
+sidebar-about-description: "I am interested in Bio-inspired robots, Flapping wing aerial robots, and Micro aerial vehicles."
 sidebar-avatar: img/amiao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
