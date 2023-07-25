@@ -17,7 +17,7 @@ sidebar-avatar: img/amiao.jpg      # use absolute URL, seeing it's used in both 
 
 
 # SNS settings
-RSS: true
+RSS: false
 #weibo_username:     DIONYSUS嗝
 #zhihu_username:     Squcle Leo
 github_username:    fangyuanleo
