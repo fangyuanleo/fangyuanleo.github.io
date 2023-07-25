@@ -1,13 +1,13 @@
 # Site settings
-title: Recording Life
-SEOTitle: Squcle's Blog
+title: Fangyuan Liu
+SEOTitle: Fangyuan's Personal Blog
 header-img: img/flowers.jpg
-email: fang_yuan_liu@yeah.net
+email: fangyuanliu9527@gmail.com
 description: "Always."
 keyword: "Squcle_L"
-url: "http://Squcle_L.github.io"          # your host, for absolute URL
+url: "http://fangyuanleo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/fangyuanleo/Squcle_L.github.io.git" # you code repository
+github_repo: "https://github.com/fangyuanleo/fangyuanleo.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
