@@ -18,7 +18,7 @@ My research centers on the development of a centimeter-scale, motor-driven flapp
 My research also targets to a multimodal and multifunctional bio-inspired robot that in addition to flight can be equipped with more modes of transportation such as jumping, crawling, running, etc., similar to real flying animals.
 </td>
 <td>
-<img src="/img/photo.png" style="zoom:30%"/>
+<img src="/img/photo.png" style="zoom:50%"/>
 </td>
 </tr>
 </table>    
