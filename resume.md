@@ -17,7 +17,7 @@ catalog:    true
 &ensp;&ensp;My research centers on the development of a centimeter-scale, motor-driven flapping-wing robot, which is truly insect-like in terms of tailless and two-winged configurations, attitude control approach, and hovering flight capability. I carried out studies to optimize its flight performance by inventing simple yet effective designs for lightweight and improving lift generation and power efficiency for long endurance flights.  
 
 &ensp;&ensp;My research also targets a multimodal and multifunctional bio-inspired robot that in addition to flight can be equipped with more modes of transportation such as jumping, crawling, running, etc., similar to real flying animals.  
-<\div>
+</div>
 
 ### Research
 #### Flapping wing Micro Aerial Vehicles
