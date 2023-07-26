@@ -18,7 +18,7 @@ catalog:    true
 <p>文字</p>
 </td>
 <td>
-<img src="https://github.com/fangyuanleo/fangyuanleo.github.io/blob/master/img/photo.png" style="zoom:50%"/>
+<img src="/img/photo.png" style="zoom:50%"/>
 </td>
 </tr>
 </table>    
