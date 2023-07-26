@@ -9,19 +9,11 @@ catalog:    true
 ---
 
 ### About Me
-<div align="center">
-<table rules="none">
-<tr>
-<td>
+<div>
+<aligh="left" img src="/img/photo.png" style="zoom:30%"/>
 <p>I'm currently a Ph.D. Candidate at Laboratory of Unmanned Intelligent Systems, Beihang University, China. I got my B.S. from Xi'an Jiaotong University in 2019. I have more than ten years of experience working on insect-inspired flying robots, multimodal locomotion robots, and insect flight.</p>
 <p>My research centers on the development of a centimeter-scale, motor-driven flapping-wing robot, which is truly insect-like in terms of tailless and two-winged configurations, attitude control approach, and hovering flight capability. I carried out studies to optimize its flight performance by inventing simple yet effective designs for lightweight and improving lift generation and power efficiency for long endurance flights.</p>
-<p>My research also targets to a multimodal and multifunctional bio-inspired robot that in addition to flight can be equipped with more modes of transportation such as jumping, crawling, running, etc., similar to real flying animals.</p>
-</td>
-<td>
-<img src="/img/photo.png" style="zoom:50%"/>
-</td>
-</tr>
-</table>    
+<p>My research also targets a multimodal and multifunctional bio-inspired robot that in addition to flight can be equipped with more modes of transportation such as jumping, crawling, running, etc., similar to real flying animals.</p>
 </div>
 
 
