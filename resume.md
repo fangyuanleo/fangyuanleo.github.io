@@ -9,7 +9,20 @@ catalog:    true
 ---
 
 ### About Me
-<img align="right" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png"/>
+<div align="center">
+<table rules="none">
+<tr>
+<td>
+<p>文字</p>
+<p>文字</p>
+<p>文字</p>
+</td>
+<td>
+<img src="https://github.com/fangyuanleo/fangyuanleo.github.io/blob/master/img/图像2022-7-5%2009.13.jpeg" style="zoom:20%"  alt="Photo"/>
+</td>
+</tr>
+</table>    
+</div>
 
 
 ### Research
