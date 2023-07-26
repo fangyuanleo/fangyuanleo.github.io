@@ -9,7 +9,7 @@ catalog:    true
 ---
 
 ### About Me
-<div  align="center">
+<div align="center">
 <img src="/img/photo.png" style="zoom:30%"/>
 </div>
 &ensp;&ensp;&ensp;&ensp;Currently, I'm a Ph.D. Candidate at Laboratory of Unmanned Intelligent Systems, Beihang University, China. I got my B.S. from Xi'an Jiaotong University in 2019.  
