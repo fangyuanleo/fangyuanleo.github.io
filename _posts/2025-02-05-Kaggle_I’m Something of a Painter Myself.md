@@ -18,7 +18,7 @@ tags:
 
 这是Kaggle 官方为刚刚接触这项比赛的选手提供的一个非常有意思的项目，利用生成对抗网络（GAN）实现
 
-![](post_fig/kaggle/monet/compare.png)
+![](https://github.com/fangyuanleo/fangyuanleo.github.io/blob/master/post_fig/kaggle/monet/compare.png?raw=true)
 
 （图片来源：知乎 calvin）
 
