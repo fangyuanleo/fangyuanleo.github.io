@@ -18,9 +18,9 @@ tags:
 
 这是Kaggle 官方为刚刚接触这项比赛的选手提供的一个非常有意思的项目，利用生成对抗网络（GAN）实现
 
-![](https://github.com/fangyuanleo/fangyuanleo.github.io/blob/master/post_fig/kaggle/monet/compare.png)
+![](post_fig/kaggle/monet/compare.png)
 
-图片来源：知乎 calvin
+（图片来源：知乎 calvin）
 
 本篇博文作为Kaggle的入门篇，将会介绍一套完成的Kaggle项目数据集下载、分析、算法代码实现和上传流程。这篇博文的内容参考了以下大佬的工作，向他们分享表达诚挚的谢意：
 
