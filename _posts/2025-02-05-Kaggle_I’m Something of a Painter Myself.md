@@ -16,7 +16,7 @@ tags:
 
 ## 前言
 
-这是kaggle 官方为刚刚接触这项比赛的选手提供的一个非常有意思的项目，要求利用生成对抗网络（GAN）实现将照片转化为莫奈风格的艺术图片，这个项目有意思的地方在于需要选手在没有照片和艺术风格图片一一成对的训练数据的前提下，学习这两个不同域（即照片和艺术作品）之间的映射，比赛链接：[kaggle: I’m Something of a Painter Myself]([I&#x2019;m Something of a Painter Myself | Kaggle](https://www.kaggle.com/competitions/gan-getting-started/data))。
+这是kaggle 官方为刚刚接触这项比赛的选手提供的一个非常有意思的项目，要求利用生成对抗网络（GAN）实现将照片转化为莫奈风格的艺术图片，这个项目有意思的地方在于需要选手在没有照片和艺术风格图片一一成对的训练数据的前提下，学习这两个不同域（即照片和艺术作品）之间的映射，比赛链接：[kaggle: I’m Something of a Painter Myself](https://www.kaggle.com/competitions/gan-getting-started/data)。
 
 ![](https://github.com/fangyuanleo/fangyuanleo.github.io/blob/master/post_fig/kaggle/monet/compare.png?raw=true)
 
@@ -31,12 +31,6 @@ tags:
 ---
 
 ## Kaggle比赛流程简介：
-
-
-
-
-
-
 
 ---
 
